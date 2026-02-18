@@ -4,6 +4,6 @@ I’m a developer who enjoys building things that live on the internet. My goal 
 
 
 ### 📫 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/abiral-khatiwada-/)) | | [Portfolio](https://abiralkhatiwada.com.np)
+[LinkedIn](https://www.linkedin.com/in/abiral-khatiwada-/) | | [Portfolio](https://abiralkhatiwada.com.np)
 
 > "The best way to predict the future is to invent it." – Alan Kay
