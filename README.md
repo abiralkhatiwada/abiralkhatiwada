@@ -10,5 +10,5 @@ I’m a developer who enjoys building things that live on the internet. My goal 
 ---
 
 <!--README_QUOTE_START-->
-> "Talk is cheap. Show me the code." – Linus Torvalds
+> "Programs must be written for people to read, and only incidentally for machines to execute." – Harold Abelson
 <!--README_QUOTE_END-->
