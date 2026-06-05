@@ -8,7 +8,11 @@ I’m a developer who enjoys building things that live on the internet. My goal 
 🌐 [Portfolio](https://abiralkhatiwada.com.np) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/abiral-khatiwada-/)
 
 ---
+<p>
+  <img src="https://komarev.com/ghpvc/?username=abiralkhatiwada&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
+---
 ### 🕹️ My GitHub Contribution Snake
 ![GitHub Fiction Snake](https://raw.githubusercontent.com/abiralkhatiwada/abiralkhatiwada/output/snake.svg)
 
