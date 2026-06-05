@@ -20,34 +20,46 @@ jobs:
           import re
 
           try:
-              # Fetch from a highly reliable, free, no-auth tech quote API
+              # Fetching from an alternate, highly available quotes API
               req = urllib.request.Request(
-                  'https://programming-quotes-api.herokuapp.com/Quotes/random',
+                  'https://open-quotes-api.vercel.app/api/quotes/random',
                   headers={'User-Agent': 'Mozilla/5.0'}
               )
               with urllib.request.urlopen(req, timeout=10) as response:
                   data = json.loads(response.read().decode('utf-8'))
-                  quote = data.get('en', '').strip()
+                  quote = data.get('quote', '').strip()
                   author = data.get('author', 'Unknown').strip()
           except Exception as e:
-              # Clean fallback quote if API times out
-              quote = 'Simplicity is the soul of efficiency.'
-              author = 'Austin Freeman'
+              # Bulletproof local fallbacks if the internet or API acts up
+              import random
+              fallbacks = [
+                  ('Talk is cheap. Show me the code.', 'Linus Torvalds'),
+                  ('Programs must be written for people to read, and only incidentally for machines to execute.', 'Harold Abelson'),
+                  ('Simplicity is the soul of efficiency.', 'Austin Freeman')
+              ]
+              quote, author = random.choice(fallbacks)
 
-          # Format the final Markdown blockquote safely as a clean string literal
+          # Format the final Markdown blockquote safely as a pure python string literal
           new_quote_block = f'> \"{quote}\" – {author}'
 
           # Read the current README file with explicit UTF-8 encoding
           with open('README.md', 'r', encoding='utf-8') as file:
               content = file.read()
 
-          # Use regex to replace content between the markers flawlessly
-          pattern = r'(<!--README_QUOTE_START-->\s*)(.*?)(\s*<!--README_QUOTE_END-->)'
-          updated_content = re.sub(pattern, r'\1' + new_quote_block + r'\3', content, flags=re.DOTALL)
-
-          # Write back the updated file cleanly
-          with open('README.md', 'w', encoding='utf-8') as file:
-              file.write(updated_content)
+          # Use a simple split and replace to completely avoid regex encoding quirks
+          start_marker = '<!--README_QUOTE_START-->'
+          end_marker = '<!--README_QUOTE_END-->'
+          
+          if start_marker in content and end_marker in content:
+              before = content.split(start_marker)[0]
+              after = content.split(end_marker)[1]
+              updated_content = f'{before}{start_marker}\n{new_quote_block}\n{end_marker}{after}'
+              
+              # Write back the updated file cleanly
+              with open('README.md', 'w', encoding='utf-8') as file:
+                  file.write(updated_content)
+          else:
+              print('Markers not found!')
           "
 
       - name: Commit and Push Changes
@@ -55,5 +67,6 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git diff-index --quiet HEAD || git commit -m "chore: updated daily quote cleanly"
+          # Force the commit message to be different to guarantee GitHub registers the change
+          git commit -m "chore: refresh dynamic daily quote"
           git push
