@@ -8,5 +8,5 @@ I’m a developer who enjoys building things that live on the internet. My goal 
 [LinkedIn](https://www.linkedin.com/in/abiral-khatiwada-/) | | [Portfolio](https://abiralkhatiwada.com.np)
 
 <!--README_QUOTE_START-->
-> "The best way to predict the future is to invent it." – Alan Kay
+> "Talk is cheap. Show me the code." – Linus Torvalds
 <!--README_QUOTE_END-->
