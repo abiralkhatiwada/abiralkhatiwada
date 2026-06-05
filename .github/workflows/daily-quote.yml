@@ -2,18 +2,15 @@ name: Update Daily Quote
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs every day at midnight UTC
+    - cron: '0 0 * * *' # Runs automatically every day at midnight UTC
   workflow_dispatch: # Allows manual trigger
-
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true # Clears the Node.js deprecation warning
 
 jobs:
   update-quote:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v4.2.2
 
       - name: Fetch and Update Quote via Python
         run: |
@@ -29,26 +26,26 @@ jobs:
                   headers={'User-Agent': 'Mozilla/5.0'}
               )
               with urllib.request.urlopen(req, timeout=10) as response:
-                  data = json.loads(response.read().decode())
-                  quote = data.get('en', '')
-                  author = data.get('author', 'Unknown')
+                  data = json.loads(response.read().decode('utf-8'))
+                  quote = data.get('en', '').strip()
+                  author = data.get('author', 'Unknown').strip()
           except Exception as e:
-              # Fallback quote if the API is acting up
+              # Clean fallback quote if API times out
               quote = 'Simplicity is the soul of efficiency.'
               author = 'Austin Freeman'
 
-          # Format the final Markdown blockquote safely
+          # Format the final Markdown blockquote safely as a clean string literal
           new_quote_block = f'> \"{quote}\" – {author}'
 
-          # Read the current README file
+          # Read the current README file with explicit UTF-8 encoding
           with open('README.md', 'r', encoding='utf-8') as file:
               content = file.read()
 
-          # Use regex to find everything between the markers and replace it safely
+          # Use regex to replace content between the markers flawlessly
           pattern = r'(<!--README_QUOTE_START-->\s*)(.*?)(\s*<!--README_QUOTE_END-->)'
-          updated_content = re.sub(pattern, f'\\1{new_quote_block}\\3', content, flags=re.DOTALL)
+          updated_content = re.sub(pattern, r'\1' + new_quote_block + r'\3', content, flags=re.DOTALL)
 
-          # Write back the updated file
+          # Write back the updated file cleanly
           with open('README.md', 'w', encoding='utf-8') as file:
               file.write(updated_content)
           "
@@ -58,6 +55,5 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          # Only commit if changes were made to avoid empty commit errors
-          git diff-index --quiet HEAD || git commit -m "chore: updated daily quote"
+          git diff-index --quiet HEAD || git commit -m "chore: updated daily quote cleanly"
           git push
