@@ -1,0 +1,47 @@
+name: Update Daily Quote
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs automatically every day at midnight UTC
+  workflow_dispatch: # This allows you to trigger it manually to test it
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Fetch Quote and Update README
+        run: |
+          # Fetch a programming/inspiration quote from a reliable public API
+          RESPONSE=$(curl -s "https://api.api-ninjas.com/v1/quotes?category=inspirational" -H "X-Api-Key: free")
+          
+          # If that fails, fallback to a standard static list fallback or standard dev quote API
+          if [ -z "$RESPONSE" ] || [ "$RESPONSE" == "[]" ]; then
+            RESPONSE=$(curl -s "https://type.fit/api/quotes" | jq '.[0]')
+            QUOTE=$(echo "$RESPONSE" | jq -r '.text')
+            AUTHOR=$(echo "$RESPONSE" | jq -r '.author // "Unknown"')
+          else
+            QUOTE=$(echo "$RESPONSE" | jq -r '.[0].quote')
+            AUTHOR=$(echo "$RESPONSE" | jq -r '.[0].author')
+          fi
+
+          # Clean up any potential double quotes or syntax breaks
+          QUOTE=$(echo "$QUOTE" | sed 's/"/\\"/g')
+          
+          # Format the output strictly for Markdown blockquotes
+          NEW_QUOTE="> \"$QUOTE\" – $AUTHOR"
+          
+          # Clear out the old quote and insert the new one between our custom comment markers
+          sed -i '/<!--README_QUOTE_START-->/,/<!--README_QUOTE_END-->/{//!d;}' README.md
+          sed -i '/<!--README_QUOTE_START-->/a '"$NEW_QUOTE"'' README.md
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          # Only commit if the quote actually changed to avoid empty git errors
+          git diff-index --quiet HEAD || git commit -m "chore: automated daily quote update"
+          git push
