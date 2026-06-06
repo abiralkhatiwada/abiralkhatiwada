@@ -2,89 +2,69 @@ name: Update Daily Quote
 
 on:
   schedule:
-    - cron: '0 0 * * *' # every day at midnight UTC (5:45 AM Nepal time)
-  workflow_dispatch:
+    - cron: '0 0 * * *' # Runs daily at midnight UTC
+  workflow_dispatch: # Allows manual trigger
 
 jobs:
   update-quote:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v4.2.2
 
       - name: Fetch and Update Quote via Python
         run: |
-          python3 << 'EOF'
-import urllib.request
-import json
-import random
+          python3 -c "
+          import urllib.request
+          import json
+          import random
 
-try:
-    req = urllib.request.Request(
-        'https://zenquotes.io/api/random',
-        headers={'User-Agent': 'Mozilla/5.0'}
-    )
+          try:
+              # Fetch quote from ZenQuotes
+              req = urllib.request.Request(
+                  'https://zenquotes.io/api/random',
+                  headers={'User-Agent': 'Mozilla/5.0'}
+              )
+              with urllib.request.urlopen(req, timeout=10) as response:
+                  data = json.loads(response.read().decode('utf-8'))
+                  quote = data[0]['q'].strip()   # ZenQuotes returns a list with dict
+                  author = data[0]['a'].strip()
+          except Exception as e:
+              print(f'API failed: {e}')
+              # Fallback quotes
+              fallbacks = [
+                  ('Talk is cheap. Show me the code.', 'Linus Torvalds'),
+                  ('Programs must be written for people to read, and only incidentally for machines to execute.', 'Harold Abelson'),
+                  ('Simplicity is the soul of efficiency.', 'Austin Freeman')
+              ]
+              quote, author = random.choice(fallbacks)
 
-    with urllib.request.urlopen(req, timeout=10) as response:
-        data = json.loads(response.read().decode('utf-8'))
+          new_quote_block = f'> \"{quote}\" – {author}'
 
-    quote = data[0]['q'].strip()
-    author = data[0]['a'].strip()
+          with open('README.md', 'r', encoding='utf-8') as file:
+              content = file.read()
 
-    print(f'Fetched quote: "{quote}" - {author}')
+          start_marker = '<!--README_QUOTE_START-->'
+          end_marker = '<!--README_QUOTE_END-->'
 
-except Exception as e:
-    print(f'API failed: {e}')
-
-    fallbacks = [
-        ('Talk is cheap. Show me the code.', 'Linus Torvalds'),
-        ('Programs must be written for people to read, and only incidentally for machines to execute.', 'Harold Abelson'),
-        ('Simplicity is the soul of efficiency.', 'Austin Freeman'),
-        ('First, solve the problem. Then, write the code.', 'John Johnson'),
-        ('Code is like humor. When you have to explain it, it is bad.', 'Cory House')
-    ]
-
-    quote, author = random.choice(fallbacks)
-
-new_quote_block = f'> "{quote}" – {author}'
-
-with open('README.md', 'r', encoding='utf-8') as file:
-    content = file.read()
-
-start_marker = '<!--README_QUOTE_START-->'
-end_marker = '<!--README_QUOTE_END-->'
-
-if start_marker not in content or end_marker not in content:
-    raise Exception('README quote markers not found.')
-
-before = content.split(start_marker)[0]
-after = content.split(end_marker)[1]
-
-updated_content = (
-    f'{before}'
-    f'{start_marker}\n'
-    f'{new_quote_block}\n'
-    f'{end_marker}'
-    f'{after}'
-)
-
-with open('README.md', 'w', encoding='utf-8') as file:
-    file.write(updated_content)
-
-print('README updated successfully.')
-EOF
+          if start_marker in content and end_marker in content:
+              before = content.split(start_marker)[0]
+              after = content.split(end_marker)[1]
+              updated_content = f'{before}{start_marker}\n{new_quote_block}\n{end_marker}{after}'
+              with open('README.md', 'w', encoding='utf-8') as file:
+                  file.write(updated_content)
+          else:
+              print('Markers not found!')
+          "
 
       - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
           git add README.md
-
           if git diff --staged --quiet; then
-            echo "No changes detected."
+              echo 'No changes detected.'
           else
-            git commit -m "chore: refresh daily quote"
-            git push
+              git commit -m 'chore: refresh dynamic daily quote'
+              git push
           fi
