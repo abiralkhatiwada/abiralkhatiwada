@@ -2,7 +2,7 @@ name: Update Daily Quote
 
 on:
   schedule:
-    - cron: '0 0 * * *' # every day at midnight UTC
+    - cron: '0 0 * * *' # every day at midnight UTC (5:45 AM Nepal time)
   workflow_dispatch:
 
 jobs:
@@ -16,64 +16,64 @@ jobs:
       - name: Fetch and Update Quote via Python
         run: |
           python3 << 'EOF'
-          import urllib.request
-          import json
-          import random
+import urllib.request
+import json
+import random
 
-          try:
-              req = urllib.request.Request(
-                  'https://zenquotes.io/api/random',
-                  headers={'User-Agent': 'Mozilla/5.0'}
-              )
+try:
+    req = urllib.request.Request(
+        'https://zenquotes.io/api/random',
+        headers={'User-Agent': 'Mozilla/5.0'}
+    )
 
-              with urllib.request.urlopen(req, timeout=10) as response:
-                  data = json.loads(response.read().decode('utf-8'))
+    with urllib.request.urlopen(req, timeout=10) as response:
+        data = json.loads(response.read().decode('utf-8'))
 
-              quote = data[0]['q'].strip()
-              author = data[0]['a'].strip()
+    quote = data[0]['q'].strip()
+    author = data[0]['a'].strip()
 
-              print(f'Fetched quote: "{quote}" - {author}')
+    print(f'Fetched quote: "{quote}" - {author}')
 
-          except Exception as e:
-              print(f'API failed: {e}')
+except Exception as e:
+    print(f'API failed: {e}')
 
-              fallbacks = [
-                  ('Talk is cheap. Show me the code.', 'Linus Torvalds'),
-                  ('Programs must be written for people to read, and only incidentally for machines to execute.', 'Harold Abelson'),
-                  ('Simplicity is the soul of efficiency.', 'Austin Freeman'),
-                  ('First, solve the problem. Then, write the code.', 'John Johnson'),
-                  ('Code is like humor. When you have to explain it, it is bad.', 'Cory House')
-              ]
+    fallbacks = [
+        ('Talk is cheap. Show me the code.', 'Linus Torvalds'),
+        ('Programs must be written for people to read, and only incidentally for machines to execute.', 'Harold Abelson'),
+        ('Simplicity is the soul of efficiency.', 'Austin Freeman'),
+        ('First, solve the problem. Then, write the code.', 'John Johnson'),
+        ('Code is like humor. When you have to explain it, it is bad.', 'Cory House')
+    ]
 
-              quote, author = random.choice(fallbacks)
+    quote, author = random.choice(fallbacks)
 
-          new_quote_block = f'> "{quote}" – {author}'
+new_quote_block = f'> "{quote}" – {author}'
 
-          with open('README.md', 'r', encoding='utf-8') as file:
-              content = file.read()
+with open('README.md', 'r', encoding='utf-8') as file:
+    content = file.read()
 
-          start_marker = '<!--README_QUOTE_START-->'
-          end_marker = '<!--README_QUOTE_END-->'
+start_marker = '<!--README_QUOTE_START-->'
+end_marker = '<!--README_QUOTE_END-->'
 
-          if start_marker not in content or end_marker not in content:
-              raise Exception('README quote markers not found.')
+if start_marker not in content or end_marker not in content:
+    raise Exception('README quote markers not found.')
 
-          before = content.split(start_marker)[0]
-          after = content.split(end_marker)[1]
+before = content.split(start_marker)[0]
+after = content.split(end_marker)[1]
 
-          updated_content = (
-              f'{before}'
-              f'{start_marker}\n'
-              f'{new_quote_block}\n'
-              f'{end_marker}'
-              f'{after}'
-          )
+updated_content = (
+    f'{before}'
+    f'{start_marker}\n'
+    f'{new_quote_block}\n'
+    f'{end_marker}'
+    f'{after}'
+)
 
-          with open('README.md', 'w', encoding='utf-8') as file:
-              file.write(updated_content)
+with open('README.md', 'w', encoding='utf-8') as file:
+    file.write(updated_content)
 
-          print('README updated successfully.')
-          EOF
+print('README updated successfully.')
+EOF
 
       - name: Commit and Push Changes
         run: |
@@ -87,3 +87,4 @@ jobs:
           else
             git commit -m "chore: refresh daily quote"
             git push
+          fi
