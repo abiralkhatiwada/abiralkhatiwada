@@ -2,71 +2,88 @@ name: Update Daily Quote
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs automatically every day at midnight UTC
-  workflow_dispatch: # Allows manual trigger
+    - cron: '0 0 * * *' # every day at midnight UTC
+  workflow_dispatch:
 
 jobs:
   update-quote:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4.2.2
+        uses: actions/checkout@v4
 
       - name: Fetch and Update Quote via Python
         run: |
-          python3 -c "
+          python3 << 'EOF'
           import urllib.request
           import json
-          import re
+          import random
 
           try:
-              # Fetching from an alternate, highly available quotes API
               req = urllib.request.Request(
-                  'https://open-quotes-api.vercel.app/api/quotes/random',
+                  'https://zenquotes.io/api/random',
                   headers={'User-Agent': 'Mozilla/5.0'}
               )
+
               with urllib.request.urlopen(req, timeout=10) as response:
                   data = json.loads(response.read().decode('utf-8'))
-                  quote = data.get('quote', '').strip()
-                  author = data.get('author', 'Unknown').strip()
+
+              quote = data[0]['q'].strip()
+              author = data[0]['a'].strip()
+
+              print(f'Fetched quote: "{quote}" - {author}')
+
           except Exception as e:
-              # Bulletproof local fallbacks if the internet or API acts up
-              import random
+              print(f'API failed: {e}')
+
               fallbacks = [
                   ('Talk is cheap. Show me the code.', 'Linus Torvalds'),
                   ('Programs must be written for people to read, and only incidentally for machines to execute.', 'Harold Abelson'),
-                  ('Simplicity is the soul of efficiency.', 'Austin Freeman')
+                  ('Simplicity is the soul of efficiency.', 'Austin Freeman'),
+                  ('First, solve the problem. Then, write the code.', 'John Johnson'),
+                  ('Code is like humor. When you have to explain it, it is bad.', 'Cory House')
               ]
+
               quote, author = random.choice(fallbacks)
 
-          # Format the final Markdown blockquote safely as a pure python string literal
-          new_quote_block = f'> \"{quote}\" – {author}'
+          new_quote_block = f'> "{quote}" – {author}'
 
-          # Read the current README file with explicit UTF-8 encoding
           with open('README.md', 'r', encoding='utf-8') as file:
               content = file.read()
 
-          # Use a simple split and replace to completely avoid regex encoding quirks
           start_marker = '<!--README_QUOTE_START-->'
           end_marker = '<!--README_QUOTE_END-->'
-          
-          if start_marker in content and end_marker in content:
-              before = content.split(start_marker)[0]
-              after = content.split(end_marker)[1]
-              updated_content = f'{before}{start_marker}\n{new_quote_block}\n{end_marker}{after}'
-              
-              # Write back the updated file cleanly
-              with open('README.md', 'w', encoding='utf-8') as file:
-                  file.write(updated_content)
-          else:
-              print('Markers not found!')
-          "
+
+          if start_marker not in content or end_marker not in content:
+              raise Exception('README quote markers not found.')
+
+          before = content.split(start_marker)[0]
+          after = content.split(end_marker)[1]
+
+          updated_content = (
+              f'{before}'
+              f'{start_marker}\n'
+              f'{new_quote_block}\n'
+              f'{end_marker}'
+              f'{after}'
+          )
+
+          with open('README.md', 'w', encoding='utf-8') as file:
+              file.write(updated_content)
+
+          print('README updated successfully.')
+          EOF
 
       - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
           git add README.md
-          # Force the commit message to be different to guarantee GitHub registers the change
-          git commit -m "chore: refresh dynamic daily quote"
-          git push
+
+          if git diff --staged --quiet; then
+            echo "No changes detected."
+          else
+            git commit -m "chore: refresh daily quote"
+            git push
