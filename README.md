@@ -40,5 +40,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Do not go where the path may lead, go instead where there is no path and leave a trail." – Ralph Waldo Emerson
+> "Opportunity comes when you continually push forward." – Sonia Ricotti
 <!--README_QUOTE_END-->
