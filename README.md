@@ -40,5 +40,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Programs must be written for people to read, and only incidentally for machines to execute." – Harold Abelson
+> "Do not go where the path may lead, go instead where there is no path and leave a trail." – Ralph Waldo Emerson
 <!--README_QUOTE_END-->
