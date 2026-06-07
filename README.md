@@ -40,5 +40,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Opportunity comes when you continually push forward." – Sonia Ricotti
+> "Procrastination is attitude's natural assassin. There's nothing so fatiguing as an uncompleted task." – William James
 <!--README_QUOTE_END-->
