@@ -5,7 +5,6 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 ---
 # Abiral Khatiwada &nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=abiralkhatiwada&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
-
 ---
 ### 🛠️ Tech Stack & Tools
 
