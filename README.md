@@ -39,5 +39,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Procrastination is attitude's natural assassin. There's nothing so fatiguing as an uncompleted task." – William James
+> "Those who are enlightened never stop forging themselves." – Morihei Ueshiba
 <!--README_QUOTE_END-->
