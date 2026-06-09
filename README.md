@@ -39,5 +39,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Those who are enlightened never stop forging themselves." – Morihei Ueshiba
+> "It is not that we have too little time to do all the things we need to do , it is that we feel the need to do too many things in the time we have." – Gary Keller
 <!--README_QUOTE_END-->
