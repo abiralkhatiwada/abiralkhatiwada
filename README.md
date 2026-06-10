@@ -39,5 +39,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "It is not that we have too little time to do all the things we need to do , it is that we feel the need to do too many things in the time we have." – Gary Keller
+> "If you want to change how you see your problems, you have to change what you value and/or how you measure failure/success." – Mark Manson
 <!--README_QUOTE_END-->
