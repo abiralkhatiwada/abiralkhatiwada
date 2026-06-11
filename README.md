@@ -39,5 +39,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "If you want to change how you see your problems, you have to change what you value and/or how you measure failure/success." – Mark Manson
+> "Programs must be written for people to read, and only incidentally for machines to execute." – Harold Abelson
 <!--README_QUOTE_END-->
