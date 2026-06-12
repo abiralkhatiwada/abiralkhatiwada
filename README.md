@@ -39,5 +39,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Programs must be written for people to read, and only incidentally for machines to execute." – Harold Abelson
+> "The eye with which I see God is the same eye with which God sees me." – Meister Eckhart
 <!--README_QUOTE_END-->
