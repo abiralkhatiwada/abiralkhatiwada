@@ -39,5 +39,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "The eye with which I see God is the same eye with which God sees me." – Meister Eckhart
+> "Those who are enlightened never stop forging themselves." – Morihei Ueshiba
 <!--README_QUOTE_END-->
