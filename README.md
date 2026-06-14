@@ -39,5 +39,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Those who are enlightened never stop forging themselves." – Morihei Ueshiba
+> "We are all different. Don't judge, understand instead." – Roy T. Bennett
 <!--README_QUOTE_END-->
