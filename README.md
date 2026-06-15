@@ -39,5 +39,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "We are all different. Don't judge, understand instead." – Roy T. Bennett
+> "Cleverness is not wisdom." – Euripides
 <!--README_QUOTE_END-->
