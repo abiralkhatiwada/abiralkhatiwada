@@ -39,5 +39,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "To create more positive results in your life, replace 'if only' with 'next time'." – Celestine Chua
+> "Much learning does not teach understanding." – Heraclitus
 <!--README_QUOTE_END-->
