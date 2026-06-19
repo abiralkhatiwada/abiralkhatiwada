@@ -39,5 +39,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "A man should never be ashamed to own that he has been in the wrong, which is but saying, that he is wiser today than yesterday." – Jonathan Swift
+> "You will not do incredible things without an incredible dream." – John Eliot
 <!--README_QUOTE_END-->
