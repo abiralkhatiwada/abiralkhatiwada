@@ -39,5 +39,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "You will not do incredible things without an incredible dream." – John Eliot
+> "The number one cause of failure is the fear of failure." – Steve Harvey
 <!--README_QUOTE_END-->
