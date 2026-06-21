@@ -39,5 +39,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "The number one cause of failure is the fear of failure." – Steve Harvey
+> "People who belittle people, will be LITTLE people, and will accomplish very Little" – Norman Vincent Peale
 <!--README_QUOTE_END-->
