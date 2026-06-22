@@ -39,5 +39,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "People who belittle people, will be LITTLE people, and will accomplish very Little" – Norman Vincent Peale
+> "Heart is what separates the good from the great." – Michael Jordan
 <!--README_QUOTE_END-->
