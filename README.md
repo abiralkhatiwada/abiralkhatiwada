@@ -39,5 +39,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Heart is what separates the good from the great." – Michael Jordan
+> "Only in the agony of parting do we look into the depths of love." – George Eliot
 <!--README_QUOTE_END-->
