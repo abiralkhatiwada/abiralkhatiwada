@@ -39,5 +39,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Only in the agony of parting do we look into the depths of love." – George Eliot
+> "If you're afraid to die, you're afraid to live. You can't have one without the other." – Rita Mae Brown
 <!--README_QUOTE_END-->
