@@ -39,5 +39,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "If you're afraid to die, you're afraid to live. You can't have one without the other." – Rita Mae Brown
+> "Life is ours to be spent, not to be saved." – D. H. Lawrence
 <!--README_QUOTE_END-->
