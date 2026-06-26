@@ -39,5 +39,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Life is ours to be spent, not to be saved." – D. H. Lawrence
+> "Remember that this moment is not your life, it's just a moment in your life. Focus on what is in front of you, right now." – Ryan Holiday
 <!--README_QUOTE_END-->
