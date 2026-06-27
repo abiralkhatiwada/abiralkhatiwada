@@ -39,5 +39,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Remember that this moment is not your life, it's just a moment in your life. Focus on what is in front of you, right now." – Ryan Holiday
+> "As a man thinketh in his heart, so shall he be." – James Allen
 <!--README_QUOTE_END-->
