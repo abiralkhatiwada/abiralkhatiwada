@@ -39,5 +39,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "As a man thinketh in his heart, so shall he be." – James Allen
+> "Education breeds confidence. Confidence breeds hope. Hope breeds peace." – Confucius
 <!--README_QUOTE_END-->
