@@ -39,5 +39,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Education breeds confidence. Confidence breeds hope. Hope breeds peace." – Confucius
+> "Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you." – Lao Tzu
 <!--README_QUOTE_END-->
