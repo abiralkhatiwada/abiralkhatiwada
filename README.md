@@ -39,5 +39,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you." – Lao Tzu
+> "Failure is feedback. Learn from it and move on." – Jack Butcher
 <!--README_QUOTE_END-->
