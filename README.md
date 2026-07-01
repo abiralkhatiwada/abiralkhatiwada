@@ -39,5 +39,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Failure is feedback. Learn from it and move on." – Jack Butcher
+> "One loses many laughs by not laughing at oneself." – Mary Engelbreit
 <!--README_QUOTE_END-->
