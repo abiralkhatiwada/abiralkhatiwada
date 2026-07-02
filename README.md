@@ -39,5 +39,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "One loses many laughs by not laughing at oneself." – Mary Engelbreit
+> "Be Brave and Take Risks: You need to have faith in yourself. Be brave and take risks. You don't have to have it all figured out to move forward." – Roy T. Bennett
 <!--README_QUOTE_END-->
