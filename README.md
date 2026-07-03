@@ -39,5 +39,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Be Brave and Take Risks: You need to have faith in yourself. Be brave and take risks. You don't have to have it all figured out to move forward." – Roy T. Bennett
+> "It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on." – Steve Maraboli
 <!--README_QUOTE_END-->
