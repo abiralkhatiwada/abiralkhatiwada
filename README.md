@@ -39,5 +39,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on." – Steve Maraboli
+> "We love the things we love for what they are." – Robert Frost
 <!--README_QUOTE_END-->
