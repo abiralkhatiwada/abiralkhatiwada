@@ -39,5 +39,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "We love the things we love for what they are." – Robert Frost
+> "Do not think you will necessarily be aware of your own enlightenment." – Dogen
 <!--README_QUOTE_END-->
