@@ -39,5 +39,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Do not think you will necessarily be aware of your own enlightenment." – Dogen
+> "Learn the rules like a pro, so you can break them like an artist." – Pablo Picasso
 <!--README_QUOTE_END-->
