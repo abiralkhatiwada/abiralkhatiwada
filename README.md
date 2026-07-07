@@ -39,5 +39,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Learn the rules like a pro, so you can break them like an artist." – Pablo Picasso
+> "The only way to entertain some folks is to listen to them." – David Brinkley
 <!--README_QUOTE_END-->
