@@ -39,5 +39,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "The first half of life is devoted to forming a healthy ego, the second half is going inward and letting go of it." – Carl Jung
+> "Courage is found in unlikely places." – J.R.R. Tolkien
 <!--README_QUOTE_END-->
