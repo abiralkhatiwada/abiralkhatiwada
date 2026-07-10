@@ -39,5 +39,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Courage is found in unlikely places." – J.R.R. Tolkien
+> "Create with the heart; build with the mind." – Criss Jami
 <!--README_QUOTE_END-->
