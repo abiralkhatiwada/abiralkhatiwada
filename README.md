@@ -39,5 +39,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Create with the heart; build with the mind." – Criss Jami
+> "Ancient Rule of Twenty-one: if you do anything for twenty-one days in a row, it will be installed as a habit." – Robin Sharma
 <!--README_QUOTE_END-->
