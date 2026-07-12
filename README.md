@@ -39,5 +39,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Ancient Rule of Twenty-one: if you do anything for twenty-one days in a row, it will be installed as a habit." – Robin Sharma
+> "The real measure of your wealth is how much you'd be worth if you lost all your money." – Unknown
 <!--README_QUOTE_END-->
