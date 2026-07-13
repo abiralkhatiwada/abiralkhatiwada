@@ -39,5 +39,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "The real measure of your wealth is how much you'd be worth if you lost all your money." – Unknown
+> "To avoid criticism, do nothing, say nothing, and be nothing." – Elbert Hubbard
 <!--README_QUOTE_END-->
