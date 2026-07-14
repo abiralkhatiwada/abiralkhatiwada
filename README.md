@@ -39,5 +39,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "To avoid criticism, do nothing, say nothing, and be nothing." – Elbert Hubbard
+> "Go as far as you can see and you will see further." – Zig Ziglar
 <!--README_QUOTE_END-->
