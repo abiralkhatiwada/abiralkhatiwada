@@ -39,5 +39,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Go as far as you can see and you will see further." – Zig Ziglar
+> "See what you're doing wrong, laugh at it, change and do better." – Spencer Johnson
 <!--README_QUOTE_END-->
