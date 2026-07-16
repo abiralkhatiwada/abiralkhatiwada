@@ -39,5 +39,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "See what you're doing wrong, laugh at it, change and do better." – Spencer Johnson
+> "Always do your best. What you plant now, you will harvest later." – Og Mandino
 <!--README_QUOTE_END-->
