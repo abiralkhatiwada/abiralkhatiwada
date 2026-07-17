@@ -39,5 +39,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Always do your best. What you plant now, you will harvest later." – Og Mandino
+> "Obstacles don't block the path, they are the path." – Zen Proverb
 <!--README_QUOTE_END-->
