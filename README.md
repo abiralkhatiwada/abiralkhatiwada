@@ -39,5 +39,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Obstacles don't block the path, they are the path." – Zen Proverb
+> "The road to success is always under construction." – Steve Harvey
 <!--README_QUOTE_END-->
