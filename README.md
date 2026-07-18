@@ -1,6 +1,6 @@
 # Hi there, I'm Abiral! 👋
 
-I’m a **Full Stack & Mobile Application Developer** who enjoys building scalable, performant, and pixel-perfect applications. I love bridging the gap between robust backend logic and beautiful user interfaces.
+I’m a **Full Stack & Mobile Application Developer** who enjoys building scalable, performant, and pixel-perfect applications. I love bridging the gap between robust backend logic and beautiful user interfaces. 
 
 ---
 # Abiral Khatiwada &nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=abiralkhatiwada&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
