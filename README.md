@@ -39,5 +39,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting." – Zig Ziglar
+> "The way to change others' minds is with affection, and not anger." – Dalai Lama
 <!--README_QUOTE_END-->
