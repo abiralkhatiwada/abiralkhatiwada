@@ -39,5 +39,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "The way to change others' minds is with affection, and not anger." – Dalai Lama
+> "Change yourself and you have done your part in changing the world." – Paramahansa Yogananda
 <!--README_QUOTE_END-->
