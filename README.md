@@ -39,5 +39,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Where we fall are the stepping-stones for our journey." – Lolly Daskal
+> "Treat everyone with politeness and kindness, not because they are nice, but because you are." – Roy T. Bennett
 <!--README_QUOTE_END-->
