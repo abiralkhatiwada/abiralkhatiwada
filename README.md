@@ -39,5 +39,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Treat everyone with politeness and kindness, not because they are nice, but because you are." – Roy T. Bennett
+> "You can't go forward and backwards at the same time." – Steve Harvey
 <!--README_QUOTE_END-->
