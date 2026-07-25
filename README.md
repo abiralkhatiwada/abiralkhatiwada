@@ -39,5 +39,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "You can't go forward and backwards at the same time." – Steve Harvey
+> "Be patient and calm; no one can catch fish in anger." – Herbert Hoover
 <!--README_QUOTE_END-->
