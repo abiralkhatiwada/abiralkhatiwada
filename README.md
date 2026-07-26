@@ -39,5 +39,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Be patient and calm; no one can catch fish in anger." – Herbert Hoover
+> "Nothing good ever comes of violence." – Martin Luther
 <!--README_QUOTE_END-->
