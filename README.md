@@ -39,5 +39,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Nothing good ever comes of violence." – Martin Luther
+> "If you don't break your ropes while you're alive, do you think ghosts will do it after?" – Kabir
 <!--README_QUOTE_END-->
