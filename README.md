@@ -39,5 +39,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "If you don't break your ropes while you're alive, do you think ghosts will do it after?" – Kabir
+> "Life is what you make it. Always has been, always will be." – Eleanor Roosevelt
 <!--README_QUOTE_END-->
