@@ -39,5 +39,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Life is what you make it. Always has been, always will be." – Eleanor Roosevelt
+> "Your setback is just a setup for a comeback." – Steve Harvey
 <!--README_QUOTE_END-->
