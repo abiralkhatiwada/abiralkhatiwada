@@ -39,5 +39,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Your setback is just a setup for a comeback." – Steve Harvey
+> "Magic is believing in yourself, if you can do that, you can make anything happen." – Johann Wolfgang von Goethe
 <!--README_QUOTE_END-->
