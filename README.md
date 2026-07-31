@@ -39,5 +39,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Magic is believing in yourself, if you can do that, you can make anything happen." – Johann Wolfgang von Goethe
+> "Everyone you meet is fighting a battle you know nothing about. Be kind. Always." – Robin Williams
 <!--README_QUOTE_END-->
