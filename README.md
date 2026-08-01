@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Everyone you meet is fighting a battle you know nothing about. Be kind. Always." – Robin Williams
+> "The whole is greater than the sum of its parts." – Aristotle
 <!--README_QUOTE_END-->
