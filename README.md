@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "The whole is greater than the sum of its parts." – Aristotle
+> "Everybody's life is either rewarding or an example." – Tony Robbins
 <!--README_QUOTE_END-->
