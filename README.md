@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Everybody's life is either rewarding or an example." – Tony Robbins
+> "Some of the greater things in life are unseen; that's why you close your eyes when you kiss, cry, or dream." – Unknown
 <!--README_QUOTE_END-->
