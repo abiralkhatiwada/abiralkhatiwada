@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Some of the greater things in life are unseen; that's why you close your eyes when you kiss, cry, or dream." – Unknown
+> "The man who asks a question is a fool for a minute, the man who does not ask is a fool for life." – Confucius
 <!--README_QUOTE_END-->
