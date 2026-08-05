@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "The man who asks a question is a fool for a minute, the man who does not ask is a fool for life." – Confucius
+> "Great thoughts speak only to the thoughtful mind, but great actions speak to all mankind." – Theodore Roosevelt
 <!--README_QUOTE_END-->
