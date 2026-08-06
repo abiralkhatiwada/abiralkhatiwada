@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Great thoughts speak only to the thoughtful mind, but great actions speak to all mankind." – Theodore Roosevelt
+> "It is up to each of us to sing as we feel moved by the overall song of life." – Ming-Dao Deng
 <!--README_QUOTE_END-->
