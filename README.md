@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "It is up to each of us to sing as we feel moved by the overall song of life." – Ming-Dao Deng
+> "Reversing your treatment of the man you have wronged is better than asking his forgiveness." – Elbert Hubbard
 <!--README_QUOTE_END-->
