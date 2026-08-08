@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Reversing your treatment of the man you have wronged is better than asking his forgiveness." – Elbert Hubbard
+> "Our life is what our thoughts make it. A man will find that as he alters his thoughts toward things and other people, things and other people will alter towards him." – James Allen
 <!--README_QUOTE_END-->
