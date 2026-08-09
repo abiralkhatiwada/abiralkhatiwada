@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Our life is what our thoughts make it. A man will find that as he alters his thoughts toward things and other people, things and other people will alter towards him." – James Allen
+> "I have no methods; all I do is accept people as they are." – Joan Rivers
 <!--README_QUOTE_END-->
