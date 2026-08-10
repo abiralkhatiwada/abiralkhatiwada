@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "I have no methods; all I do is accept people as they are." – Joan Rivers
+> "Judgments prevent us from seeing the good that lies beyond appearances." – Wayne Dyer
 <!--README_QUOTE_END-->
