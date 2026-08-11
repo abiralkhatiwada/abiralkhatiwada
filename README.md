@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Judgments prevent us from seeing the good that lies beyond appearances." – Wayne Dyer
+> "In all human affairs there are efforts, and there are results, and the strength of the effort is the measure of the result." – James Allen
 <!--README_QUOTE_END-->
