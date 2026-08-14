@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "To know even one life has breathed easier because you have lived. This is to have succeeded." – Ralph Waldo Emerson
+> "Every day do something that will inch you closer to a better tomorrow." – Unknown
 <!--README_QUOTE_END-->
