@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Every day do something that will inch you closer to a better tomorrow." – Unknown
+> "You are not what you think you are, You are not what others think you are, You are what you think others think you are." – Unknown
 <!--README_QUOTE_END-->
