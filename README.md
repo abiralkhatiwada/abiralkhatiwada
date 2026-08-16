@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "You are not what you think you are, You are not what others think you are, You are what you think others think you are." – Unknown
+> "Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy." – Thich Nhat Hanh
 <!--README_QUOTE_END-->
