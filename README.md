@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy." – Thich Nhat Hanh
+> "You don't get in life what you want; you get in life what you are." – Les Brown
 <!--README_QUOTE_END-->
