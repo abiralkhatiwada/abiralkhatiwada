@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "You don't get in life what you want; you get in life what you are." – Les Brown
+> "Truth is such a rare thing, it is delighted to tell it." – Emily Dickinson
 <!--README_QUOTE_END-->
