@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Truth is such a rare thing, it is delighted to tell it." – Emily Dickinson
+> "Every man desires to live long, but no man wishes to be old." – Jonathan Swift
 <!--README_QUOTE_END-->
