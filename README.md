@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Every man desires to live long, but no man wishes to be old." – Jonathan Swift
+> "You may forget with whom you laughed, but you will never forget with whom you wept." – Kahlil Gibran
 <!--README_QUOTE_END-->
