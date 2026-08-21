@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "You may forget with whom you laughed, but you will never forget with whom you wept." – Kahlil Gibran
+> "Weeds are flowers too, once you get to know them." – A.A. Milne
 <!--README_QUOTE_END-->
