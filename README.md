@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Weeds are flowers too, once you get to know them." – A.A. Milne
+> "If you don't program yourself, life will program you." – Les Brown
 <!--README_QUOTE_END-->
