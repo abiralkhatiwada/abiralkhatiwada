@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "If you don't program yourself, life will program you." – Les Brown
+> "There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return." – Nelson Mandela
 <!--README_QUOTE_END-->
