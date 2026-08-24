@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return." – Nelson Mandela
+> "You are the average of the five people you spend the most time with." – Jim Rohn
 <!--README_QUOTE_END-->
