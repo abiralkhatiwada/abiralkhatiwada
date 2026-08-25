@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "You are the average of the five people you spend the most time with." – Jim Rohn
+> "Be like a postage stamp. Stick to it until you get there." – Bob Proctor
 <!--README_QUOTE_END-->
