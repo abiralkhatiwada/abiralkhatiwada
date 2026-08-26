@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Be like a postage stamp. Stick to it until you get there." – Bob Proctor
+> "Courage is resistance to fear, mastery of fear - not absence of fear." – Mark Twain
 <!--README_QUOTE_END-->
