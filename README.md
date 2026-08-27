@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Courage is resistance to fear, mastery of fear - not absence of fear." – Mark Twain
+> "Excuses are the lies you convince yourself are true to avoid proving you are worthy of the gift you were given." – Steve Harvey
 <!--README_QUOTE_END-->
