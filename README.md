@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Excuses are the lies you convince yourself are true to avoid proving you are worthy of the gift you were given." – Steve Harvey
+> "When you reach the end of your rope, tie a knot in it and hang on." – Franklin D. Roosevelt
 <!--README_QUOTE_END-->
