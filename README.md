@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "When you reach the end of your rope, tie a knot in it and hang on." – Franklin D. Roosevelt
+> "We have to live life with a sense of urgency so not a minute is wasted." – Les Brown
 <!--README_QUOTE_END-->
