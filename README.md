@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "We have to live life with a sense of urgency so not a minute is wasted." – Les Brown
+> "Rudeness is the weak man's imitation of strength." – Eric Hoffer
 <!--README_QUOTE_END-->
