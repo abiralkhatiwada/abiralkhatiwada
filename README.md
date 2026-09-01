@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less." – Dan Millman
+> "He who knows how to wait need make no concessions." – Sigmund Freud
 <!--README_QUOTE_END-->
