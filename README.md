@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "He who knows how to wait need make no concessions." – Sigmund Freud
+> "The secret of success lies not in doing your own work, but in recognizing the right man to do it." – Andrew Carnegie
 <!--README_QUOTE_END-->
