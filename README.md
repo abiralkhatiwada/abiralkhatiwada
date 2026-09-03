@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "The secret of success lies not in doing your own work, but in recognizing the right man to do it." – Andrew Carnegie
+> "If I can pay the bills, I'm happy." – Morgan Wootten
 <!--README_QUOTE_END-->
