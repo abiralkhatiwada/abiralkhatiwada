@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "If I can pay the bills, I'm happy." – Morgan Wootten
+> "Knowledge is learning something everyday. Wisdom is letting go of something everyday." – Unknown
 <!--README_QUOTE_END-->
