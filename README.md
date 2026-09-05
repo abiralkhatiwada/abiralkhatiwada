@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Knowledge is learning something everyday. Wisdom is letting go of something everyday." – Unknown
+> "It's not what you pay a man, but what he costs you that counts." – Will Rogers
 <!--README_QUOTE_END-->
