@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "It's not what you pay a man, but what he costs you that counts." – Will Rogers
+> "Things cannot forever go downward. There are limits to everything—even the cold, and the darkness, and the wind, and the dying." – Ming-Dao Deng
 <!--README_QUOTE_END-->
