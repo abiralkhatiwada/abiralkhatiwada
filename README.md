@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Things cannot forever go downward. There are limits to everything—even the cold, and the darkness, and the wind, and the dying." – Ming-Dao Deng
+> "There are no contests in the Art of Peace. A true warrior is invincible because he or she contests with nothing." – Morihei Ueshiba
 <!--README_QUOTE_END-->
