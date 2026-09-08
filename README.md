@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "There are no contests in the Art of Peace. A true warrior is invincible because he or she contests with nothing." – Morihei Ueshiba
+> "Knowing yourself is the beginning of all wisdom." – Aristotle
 <!--README_QUOTE_END-->
