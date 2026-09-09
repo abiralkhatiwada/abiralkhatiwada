@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Knowing yourself is the beginning of all wisdom." – Aristotle
+> "If it entertains you now but will bore you someday, it's a distraction. Keep looking." – Naval Ravikant
 <!--README_QUOTE_END-->
