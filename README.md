@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "If it entertains you now but will bore you someday, it's a distraction. Keep looking." – Naval Ravikant
+> "You become a worrier by practicing worry. You become free of worry by practicing the opposite." – Norman Vincent Peale
 <!--README_QUOTE_END-->
