@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "You become a worrier by practicing worry. You become free of worry by practicing the opposite." – Norman Vincent Peale
+> "Courage is knowing what not to fear." – Plato
 <!--README_QUOTE_END-->
