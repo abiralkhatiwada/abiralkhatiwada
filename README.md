@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Courage is knowing what not to fear." – Plato
+> "Avoiding danger is no safer in the long run than exposure." – Helen Keller
 <!--README_QUOTE_END-->
