@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Avoiding danger is no safer in the long run than exposure." – Helen Keller
+> "Blessed is he who expects nothing, for he shall never be disappointed." – Alexander Pope
 <!--README_QUOTE_END-->
