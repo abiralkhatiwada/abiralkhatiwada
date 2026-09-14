@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Blessed is he who expects nothing, for he shall never be disappointed." – Alexander Pope
+> "Invest in as much of yourself as you can, you are your own biggest asset by far." – Warren Buffett
 <!--README_QUOTE_END-->
