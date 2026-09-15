@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Invest in as much of yourself as you can, you are your own biggest asset by far." – Warren Buffett
+> "We are all self-made, but only the successful will admit it." – Earl Nightingale
 <!--README_QUOTE_END-->
