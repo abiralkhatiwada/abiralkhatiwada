@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "We are all self-made, but only the successful will admit it." – Earl Nightingale
+> "He who leaves the game wins it." – Nicolas Chamfort
 <!--README_QUOTE_END-->
