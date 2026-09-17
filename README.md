@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "He who leaves the game wins it." – Nicolas Chamfort
+> "Ripe fruit falls by itself - but it doesn't fall in your mouth." – Chinese Proverb
 <!--README_QUOTE_END-->
