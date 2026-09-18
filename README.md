@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Ripe fruit falls by itself - but it doesn't fall in your mouth." – Chinese Proverb
+> "My actions are my only true belongings. I cannot escape the consequences of my actions. My actions are the ground upon which I stand." – Thich Nhat Hanh
 <!--README_QUOTE_END-->
