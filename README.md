@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "My actions are my only true belongings. I cannot escape the consequences of my actions. My actions are the ground upon which I stand." – Thich Nhat Hanh
+> "Believe you can and you're halfway there." – Colin R. Davis
 <!--README_QUOTE_END-->
