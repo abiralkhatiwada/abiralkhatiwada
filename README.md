@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Believe you can and you're halfway there." – Colin R. Davis
+> "Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts." – Paramahansa Yogananda
 <!--README_QUOTE_END-->
