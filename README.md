@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts." – Paramahansa Yogananda
+> "You must be willing to do what others won't do, to have what others won't have." – Les Brown
 <!--README_QUOTE_END-->
