@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "You must be willing to do what others won't do, to have what others won't have." – Les Brown
+> "We should not look back unless it is to derive useful lessons from past errors." – George Washington
 <!--README_QUOTE_END-->
