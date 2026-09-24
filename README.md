@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "You can't wait for inspiration. You have to go after it with a club." – Jack London
+> "We must create our own world or we will die from inaction." – Robert Greene
 <!--README_QUOTE_END-->
