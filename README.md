@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "We must create our own world or we will die from inaction." – Robert Greene
+> "Never fear quarrels, but seek hazardous adventures." – Alexandre Dumas
 <!--README_QUOTE_END-->
