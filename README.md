@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Never fear quarrels, but seek hazardous adventures." – Alexandre Dumas
+> "Others can stop you temporarily - you are the only one who can do it permanently." – Zig Ziglar
 <!--README_QUOTE_END-->
