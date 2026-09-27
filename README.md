@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Others can stop you temporarily - you are the only one who can do it permanently." – Zig Ziglar
+> "No one ever is defeated until defeat has been accepted as a reality." – Napoleon Hill
 <!--README_QUOTE_END-->
