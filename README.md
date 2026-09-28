@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "No one ever is defeated until defeat has been accepted as a reality." – Napoleon Hill
+> "Life is a long lesson in humility." – James Matthew Barrie
 <!--README_QUOTE_END-->
