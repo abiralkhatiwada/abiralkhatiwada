@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Life is a long lesson in humility." – James Matthew Barrie
+> "No matter how tall the mountain is, it cannot block the sun." – Chinese Proverb
 <!--README_QUOTE_END-->
