@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "No matter how tall the mountain is, it cannot block the sun." – Chinese Proverb
+> "Programs must be written for people to read, and only incidentally for machines to execute." – Harold Abelson
 <!--README_QUOTE_END-->
