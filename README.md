@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Programs must be written for people to read, and only incidentally for machines to execute." – Harold Abelson
+> "Desire for the fruits of work must never be your motive in working." – Bhagavad Gita
 <!--README_QUOTE_END-->
