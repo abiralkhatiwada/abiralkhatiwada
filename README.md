@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Desire for the fruits of work must never be your motive in working." – Bhagavad Gita
+> "Every poem should remind the reader that they are going to die." – Edgar Allan Poe
 <!--README_QUOTE_END-->
