@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Every poem should remind the reader that they are going to die." – Edgar Allan Poe
+> "None but ourselves can free our minds." – Bob Marley
 <!--README_QUOTE_END-->
