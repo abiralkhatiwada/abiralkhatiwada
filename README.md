@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "None but ourselves can free our minds." – Bob Marley
+> "Do every act of your life as if it were your last." – Marcus Aurelius
 <!--README_QUOTE_END-->
