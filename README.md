@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Do every act of your life as if it were your last." – Marcus Aurelius
+> "Quality is not an act, it is a habit." – Aristotle
 <!--README_QUOTE_END-->
