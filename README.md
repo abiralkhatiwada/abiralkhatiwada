@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Quality is not an act, it is a habit." – Aristotle
+> "There is little success where there is little laughter." – Andrew Carnegie
 <!--README_QUOTE_END-->
