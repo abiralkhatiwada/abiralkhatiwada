@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "There is little success where there is little laughter." – Andrew Carnegie
+> "Some people want it to happen, some wish it would happen, others make it happen." – Michael Jordan
 <!--README_QUOTE_END-->
