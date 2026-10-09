@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "You are the average of the five people you spend the most time with." – Jim Rohn
+> "If I love myself I love you. If I love you I love myself." – Rumi
 <!--README_QUOTE_END-->
