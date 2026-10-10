@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "If I love myself I love you. If I love you I love myself." – Rumi
+> "It is in the darkness that one finds the light." – Meister Eckhart
 <!--README_QUOTE_END-->
