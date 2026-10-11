@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "It is in the darkness that one finds the light." – Meister Eckhart
+> "The best teacher is experience and not through someone's distorted point of view." – Jack Kerouac
 <!--README_QUOTE_END-->
