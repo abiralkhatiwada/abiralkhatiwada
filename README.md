@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "The best teacher is experience and not through someone's distorted point of view." – Jack Kerouac
+> "Where there's life, there's hope." – Stephen Hawking
 <!--README_QUOTE_END-->
