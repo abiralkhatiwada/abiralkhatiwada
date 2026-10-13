@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Where there's life, there's hope." – Stephen Hawking
+> "The only way to do great work is to love what you do." – Colin R. Davis
 <!--README_QUOTE_END-->
