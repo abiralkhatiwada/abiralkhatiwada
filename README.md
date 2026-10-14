@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "The only way to do great work is to love what you do." – Colin R. Davis
+> "When you win, say nothing, when you lose say less." – Wayne Gretzky
 <!--README_QUOTE_END-->
