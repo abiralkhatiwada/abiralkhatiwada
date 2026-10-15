@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "When you win, say nothing, when you lose say less." – Wayne Gretzky
+> "Life would be tragic if it weren't funny." – Stephen Hawking
 <!--README_QUOTE_END-->
