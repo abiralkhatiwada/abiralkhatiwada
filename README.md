@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "A man should never be ashamed to own that he has been in the wrong, which is but saying, that he is wiser today than yesterday." – Jonathan Swift
+> "However difficult life may seem, there is always something you can do and succeed at." – Stephen Hawking
 <!--README_QUOTE_END-->
