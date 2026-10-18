@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "However difficult life may seem, there is always something you can do and succeed at." – Stephen Hawking
+> "If you're brave enough to say goodbye, life will reward you with a new hello." – Paulo Coelho
 <!--README_QUOTE_END-->
