@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "If you're brave enough to say goodbye, life will reward you with a new hello." – Paulo Coelho
+> "Everything great that has ever happened to humanity has begun as a single thought in someone's mind." – Yanni
 <!--README_QUOTE_END-->
