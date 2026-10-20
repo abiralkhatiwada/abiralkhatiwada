@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Everything great that has ever happened to humanity has begun as a single thought in someone's mind." – Yanni
+> "Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young." – Henry Ford
 <!--README_QUOTE_END-->
