@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young." – Henry Ford
+> "We ourselves feel that what we are doing is just a drop in the ocean. But the ocean would be less because of that missing drop." – Mother Teresa
 <!--README_QUOTE_END-->
