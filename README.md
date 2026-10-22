@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "We ourselves feel that what we are doing is just a drop in the ocean. But the ocean would be less because of that missing drop." – Mother Teresa
+> "Throw your heart over the fence and the rest will follow" – Norman Vincent Peale
 <!--README_QUOTE_END-->
