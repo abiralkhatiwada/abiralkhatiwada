@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Throw your heart over the fence and the rest will follow" – Norman Vincent Peale
+> "People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily." – Zig Ziglar
 <!--README_QUOTE_END-->
