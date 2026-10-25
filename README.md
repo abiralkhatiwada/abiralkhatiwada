@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "We can either add to our character each day, or we can fritter away our energies in distractions." – Ming-Dao Deng
+> "Truth is like the sun. You can shut it out for a time, but it ain't going away." – Elvis Presley
 <!--README_QUOTE_END-->
