@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Truth is like the sun. You can shut it out for a time, but it ain't going away." – Elvis Presley
+> "Laziness may appear attractive, but work gives satisfaction." – Anne Frank
 <!--README_QUOTE_END-->
