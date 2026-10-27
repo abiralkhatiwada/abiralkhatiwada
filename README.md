@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Laziness may appear attractive, but work gives satisfaction." – Anne Frank
+> "Formal education will make you a living, self-education will make you a fortune." – Jim Rohn
 <!--README_QUOTE_END-->
