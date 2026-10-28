@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Formal education will make you a living, self-education will make you a fortune." – Jim Rohn
+> "Life can only be understood backwards; but it must be lived forwards." – Soren Kierkegaard
 <!--README_QUOTE_END-->
