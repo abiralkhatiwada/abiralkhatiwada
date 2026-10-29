@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Life can only be understood backwards; but it must be lived forwards." – Soren Kierkegaard
+> "In youth we run into difficulties. In old age difficulties run into us." – Beverly Sills
 <!--README_QUOTE_END-->
