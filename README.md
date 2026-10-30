@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "In youth we run into difficulties. In old age difficulties run into us." – Beverly Sills
+> "Walk slowly but never walk backward." – Unknown
 <!--README_QUOTE_END-->
