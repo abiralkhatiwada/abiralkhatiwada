@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Walk slowly but never walk backward." – Unknown
+> "Courage is found in unlikely places." – J.R.R. Tolkien
 <!--README_QUOTE_END-->
