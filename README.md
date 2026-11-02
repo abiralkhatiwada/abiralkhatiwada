@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Until we can manage time, we can manage nothing else." – Peter Drucker
+> "Today I begin a new life. I will greet this day with love in my heart." – Og Mandino
 <!--README_QUOTE_END-->
