@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Today I begin a new life. I will greet this day with love in my heart." – Og Mandino
+> "Being an intellectual creates a lot of questions and no answers." – David Brinkley
 <!--README_QUOTE_END-->
