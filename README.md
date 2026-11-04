@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Being an intellectual creates a lot of questions and no answers." – David Brinkley
+> "You are now, and you do become, what you think about." – Earl Nightingale
 <!--README_QUOTE_END-->
