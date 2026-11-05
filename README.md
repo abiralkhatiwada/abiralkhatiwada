@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "You are now, and you do become, what you think about." – Earl Nightingale
+> "Reading should be a pleasure, not a chore." – Joan Rivers
 <!--README_QUOTE_END-->
