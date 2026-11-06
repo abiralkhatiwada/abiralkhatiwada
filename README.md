@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Reading should be a pleasure, not a chore." – Joan Rivers
+> "A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty." – Winston Churchill
 <!--README_QUOTE_END-->
