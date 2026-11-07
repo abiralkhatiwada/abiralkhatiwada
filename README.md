@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty." – Winston Churchill
+> "To be totally at leisure for one day is to be immortal for one day." – Chinese Proverb
 <!--README_QUOTE_END-->
