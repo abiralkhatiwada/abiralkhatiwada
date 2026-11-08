@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "To be totally at leisure for one day is to be immortal for one day." – Chinese Proverb
+> "You'll see it when you believe it." – Wayne Dyer
 <!--README_QUOTE_END-->
