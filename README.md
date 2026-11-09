@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "You'll see it when you believe it." – Wayne Dyer
+> "When we strive to become better than we are, everything around us becomes better, too." – Paulo Coelho
 <!--README_QUOTE_END-->
