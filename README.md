@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "When we strive to become better than we are, everything around us becomes better, too." – Paulo Coelho
+> "The only place where success comes before work is in the dictionary." – Vidal Sassoon
 <!--README_QUOTE_END-->
