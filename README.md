@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "The only place where success comes before work is in the dictionary." – Vidal Sassoon
+> "Happiness is the meaning and the purpose of life, the whole aim and end of human existence." – Aristotle
 <!--README_QUOTE_END-->
