@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Happiness is the meaning and the purpose of life, the whole aim and end of human existence." – Aristotle
+> "Do what you can, with what you have, where you are." – Colin R. Davis
 <!--README_QUOTE_END-->
