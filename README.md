@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Do what you can, with what you have, where you are." – Colin R. Davis
+> "Patience expands your options. If you insist on immediate gratification, your choices are severely limited." – Ralph Marston
 <!--README_QUOTE_END-->
