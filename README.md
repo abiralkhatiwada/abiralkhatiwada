@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Patience expands your options. If you insist on immediate gratification, your choices are severely limited." – Ralph Marston
+> "Sometimes you have to lose all you have to find out who you truly are." – Roy T. Bennett
 <!--README_QUOTE_END-->
