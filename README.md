@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Sometimes you have to lose all you have to find out who you truly are." – Roy T. Bennett
+> "Even though you are on the right track - you will get run over if you just sit there." – Will Rogers
 <!--README_QUOTE_END-->
