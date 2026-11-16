@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Even though you are on the right track - you will get run over if you just sit there." – Will Rogers
+> "The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less." – Dan Millman
 <!--README_QUOTE_END-->
