@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less." – Dan Millman
+> "If you find you are not valued and appreciated, then shift your attention to places where you will be valued and appreciated." – Celestine Chua
 <!--README_QUOTE_END-->
