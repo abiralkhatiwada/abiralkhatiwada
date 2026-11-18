@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "If you find you are not valued and appreciated, then shift your attention to places where you will be valued and appreciated." – Celestine Chua
+> "As long as a human being worries about when he will die, and what he has that is his, all of his works are zero." – Kabir
 <!--README_QUOTE_END-->
