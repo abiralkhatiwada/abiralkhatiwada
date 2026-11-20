@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Whatever you think the world is withholding from you, you are withholding from the world." – Eckhart Tolle
+> "Dreams are the touchstones of our characters." – Henry David Thoreau
 <!--README_QUOTE_END-->
