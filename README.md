@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Dreams are the touchstones of our characters." – Henry David Thoreau
+> "Time and health are two precious assets that we don't recognize and appreciate until they have been depleted." – Denis Waitley
 <!--README_QUOTE_END-->
