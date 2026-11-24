@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "There is a wisdom of the head, and there is a wisdom of the heart." – Charles Dickens
+> "To earn more you must learn more." – Brian Tracy
 <!--README_QUOTE_END-->
