@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Whatever happened, happened for the good. Whatever is happening, is happening for the good. Whatever will happen, will also happen for the good." – Bhagavad Gita
+> "Aim for the moon. If you miss, you may hit a star." – W. Clement Stone
 <!--README_QUOTE_END-->
