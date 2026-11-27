@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Aim for the moon. If you miss, you may hit a star." – W. Clement Stone
+> "Who looks outside, dreams; who looks inside, awakes." – Lolly Daskal
 <!--README_QUOTE_END-->
