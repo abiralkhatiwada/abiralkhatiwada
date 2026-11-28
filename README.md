@@ -41,5 +41,5 @@ I’m a **Full Stack & Mobile Application Developer** who enjoys building scalab
 
 
 <!--README_QUOTE_START-->
-> "Who looks outside, dreams; who looks inside, awakes." – Lolly Daskal
+> "A needle is not sharp at both ends." – Chinese Proverb
 <!--README_QUOTE_END-->
